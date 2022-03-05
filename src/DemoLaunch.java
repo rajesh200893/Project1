@@ -7,5 +7,5 @@ public class DemoLaunch {
 		driver.get("https://www.google.com/"); 
 		   
 	} 
-
+ 
 }
