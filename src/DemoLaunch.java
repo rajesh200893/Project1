@@ -6,6 +6,6 @@ public class DemoLaunch {
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com/"); 
 		 
-	}
+	} 
 
 }
