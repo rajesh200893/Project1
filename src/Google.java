@@ -8,6 +8,7 @@ public class Google {
 		driver.manage().window().maximize(); //method chaining 
 		driver.get("https://www.google.com/");
 		Thread.sleep(2000);
-		System.out.println(driver.getPageSource()); 
-}
+		//System.out.println(driver.getPageSource()); 
+	
+} 
 	}

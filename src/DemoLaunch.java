@@ -8,7 +8,7 @@ public class DemoLaunch {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize(); //method chaining 
 		driver.get("https://www.google.com/");
-		//driver.get("https://www.facebook.com/");
+		driver.get("https://www.facebook.com/");
 		driver.navigate().to("https://www.facebook.com/");
 		//driver.close();
 	    //driver.quit();
